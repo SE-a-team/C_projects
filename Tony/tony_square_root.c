@@ -9,15 +9,15 @@
 */
 int main(void)
 {
-int number;
-int root;
+float number;
+float root;
 
 	printf("Enter your number:\n");
-	scanf("%d", &number);
+	scanf("%f", &number);
 
 	root = pow(number, 0.5);
 
-	printf("The Square Root =%d\n", root);
+	printf("The Square Root= %f\n", root);
 
 return (0);
 
