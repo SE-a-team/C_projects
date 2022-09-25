@@ -7,9 +7,8 @@
 *
 * Return: 0
 */
-int main(void);
+int main(void)
 {
-
 int number;
 int root;
 
@@ -18,7 +17,7 @@ int root;
 
 	root = pow(number, 0.5);
 
-	printf("The Square Root =%d", root);
+	printf("The Square Root =%d\n", root);
 
 return (0);
 
