@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-This repository is for the purpose of practicing and understanding the concepts of C programming.
-=======
 # C Projects
 
 This repository is meant to hold our practice on our C tasks which we give each other to handle, our group link is [Buddy-group Alx](https://chat.whatsapp.com/F8jGXzTEBdEJoc542DtETz) 
